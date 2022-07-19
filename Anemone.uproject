@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D944C3EC-41C8-D064-59F5-97BC6DF93617}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Anemone",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
